@@ -17,7 +17,7 @@ In conclusion, though art and design students do not need to become professional
 
 References
 
-Amiri, F. (2011). Programming as design: The role of programming in interactive media curriculum in art and design. International Journal of Art & Design Education, 30(2), 200–210. https://doi.org/10.1111/j.1476-8070.2011.01680.x
+Amiri, F. (2011), Programming as Design: The Role of Programming in Interactive Media Curriculum in Art and Design. International Journal of Art & Design Education, 30: 200-210. https://doi.org/10.1111/j.1476-8070.2011.01680.x
 
 Li, Q., Liu, Z.-X., Wang, P., Wang, J.-J., & Luo, T. (2023). The influence of art programming courses on design thinking and computational thinking in college art and design students. Education and Information Technologies, 28, 10885–10902. https://doi.org/10.1007/s10639-023-11618-7
 
