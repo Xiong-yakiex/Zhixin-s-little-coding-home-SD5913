@@ -15,7 +15,7 @@ My previous experience with Unity therefore represents an important lesson. Inst
 
 In conclusion, though art and design students do not need to become professional programmers. However, they should develop basic programming knowledge, computational thinking, debugging skills, and the ability to find and evaluate technical information. For me, the most valuable outcome of learning programming is not being able to memorize more code, but knowing how to learn when I do not know the answer.
 
-References
+## References
 
 Amiri, F. (2011), Programming as Design: The Role of Programming in Interactive Media Curriculum in Art and Design. International Journal of Art & Design Education, 30: 200-210. https://doi.org/10.1111/j.1476-8070.2011.01680.x
 
