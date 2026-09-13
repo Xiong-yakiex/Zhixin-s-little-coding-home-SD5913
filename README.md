@@ -1,5 +1,5 @@
 # Zhixin-s-little-coding-home-SD5913
-The needs of artist to learn Programming
+## The needs of artist to learn Programming
 
 Nowadays, computers have become an essential form of new media. Almost everything we want to create or achieve in the digital world requires the help of computers. For people without programming knowledge, it can be difficult to fully use these technologies or turn their ideas into reality. Therefore, having basic programming skills can make the creative process easier and provide more possibilities for future development.
 
